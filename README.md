@@ -1,7 +1,7 @@
 # Backend-Server
 # GoogleformReplica
 ## To create a Desktop App using Visual Basic language and Backend using Express and Typescript to replicate the functionality of Google forms.
-## This project is a Google Forms-like application that consists of a Windows Desktop application built using Visual Basic and a backend server built with Node.js and TypeScript. The application allows users to create new submissions and view existing submissions.
+## This project is a Google Forms-like application that consists of a Windows Desktop application built using Visual Basic and a backend server built with Express.js and TypeScript. The application allows users to create new submissions and view existing submissions.
 ### Prerequisites
 To run this project, you need the following:
 
